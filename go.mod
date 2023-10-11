@@ -1,6 +1,6 @@
 module github.com/qor5/admin
 
-go 1.20
+go 1.19
 
 require (
 	github.com/ahmetb/go-linq/v3 v3.2.0
